@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f8c8dc"><title>Japanese Conjugation Practice</title>
+<link rel="manifest" href="manifest.json"><link rel="stylesheet" href="style.css">
+</head><body>
+<main class="app-shell">
+<section class="top-card">
+<div class="app-title-row">
+<button id="helpButton" class="icon-button" type="button" aria-label="Help">?</button>
+<div class="level-picker">
+<button class="level-button active" data-filter="all">ALL</button><button class="level-button" data-filter="verb">VERBS</button>
+<button class="level-button" data-filter="i-adj">い-ADJ</button><button class="level-button" data-filter="na-adj">な-ADJ</button>
+</div></div>
+<div class="progress-wrap"><div class="progress-label"><span id="modeLabel">ALL</span><span id="progressText">0/0</span></div>
+<div class="progress-track"><div id="progressBar" class="progress-bar"></div></div></div>
+</section>
+<section class="prompt-card"><h2 id="englishPrompt">Loading...</h2>
+<p class="conjugation-hint">ない　→　た　→　なかった　→　て　→　たり</p></section>
+<section id="answerCard" class="answer-card hidden"><p id="japaneseAnswer" class="japanese-text"></p>
+<button id="nextButton" class="primary-button pink" type="button">Next</button></section>
+<button id="revealButton" class="primary-button yellow" type="button">Reveal</button>
+</main>
+<div id="helpPanel" class="help-overlay hidden" role="dialog" aria-modal="true"><div class="help-sheet">
+<div class="help-head"><h2>Conjugation help</h2><button id="closeHelp" class="close-button">×</button></div>
+<nav class="help-jumps"><a href="#nai">ない</a><a href="#ta">た</a><a href="#nakatta">なかった</a><a href="#te">て</a><a href="#tari">たり</a><a href="#uverb">う-verbs</a><a href="#ruverb">る-verbs</a><a href="#iadj">い-adj</a><a href="#naadj">な-adj</a><a href="#irregular">Irregular</a></nav>
+<section id="nai"><h3>ない — negative</h3><p><b>う-verbs:</b> final sound → あ-row + ない. う → わない.</p><p>かく → かかない　 のむ → のまない　 かう → かわない</p><p><b>る-verbs:</b> drop る + ない.　たべる → たべない</p></section>
+<section id="ta"><h3>た — short past</h3><p><b>う・つ・る → った</b>　かう → かった</p><p><b>む・ぶ・ぬ → んだ</b>　のむ → のんだ</p><p><b>く → いた</b>　かく → かいた</p><p><b>ぐ → いだ</b>　およぐ → およいだ</p><p><b>す → した</b>　はなす → はなした</p><p><b>る-verbs:</b> drop る + た.　たべる → たべた</p></section>
+<section id="nakatta"><h3>なかった — negative past</h3><p>Make the ない form, then change ない → なかった.</p><p>のむ → のまない → のまなかった</p></section>
+<section id="te"><h3>て — て-form</h3><p><b>う・つ・る → って</b>　かう → かって</p><p><b>む・ぶ・ぬ → んで</b>　のむ → のんで</p><p><b>く → いて</b>　かく → かいて</p><p><b>ぐ → いで</b>　およぐ → およいで</p><p><b>す → して</b>　はなす → はなして</p><p><b>る-verbs:</b> drop る + て.　たべる → たべて</p></section>
+<section id="tari"><h3>たり — listing actions/states</h3><p>Make the た form + り.</p><p>のむ → のんだ → のんだり　 たべる → たべた → たべたり</p></section>
+<section id="uverb"><h3>う-verbs</h3><p>The ending changes according to its final kana. Watch る-verbs that are actually う-verbs: かえる → かえらない, はいる → はいらない.</p></section>
+<section id="ruverb"><h3>る-verbs</h3><p>Usually drop る before the ending: たべる → たべない / たべた / たべて.</p></section>
+<section id="iadj"><h3>い-adjectives</h3><p>ない: 〜くない　 た: 〜かった　 なかった: 〜くなかった</p><p>て: 〜くて　 たり: 〜かったり</p><p>たかい → たかくない / たかかった / たかくなかった / たかくて / たかかったり</p></section>
+<section id="naadj"><h3>な-adjectives</h3><p>ない: 〜じゃない　 た: 〜だった　 なかった: 〜じゃなかった</p><p>て: 〜で　 たり: 〜だったり</p><p>しずか → しずかじゃない / しずかだった / しずかじゃなかった / しずかで / しずかだったり</p></section>
+<section id="irregular"><h3>Irregular</h3><p><b>する:</b> しない / した / しなかった / して / したり</p><p><b>くる:</b> こない / きた / こなかった / きて / きたり</p><p><b>いく:</b> いかない / いった / いかなかった / いって / いったり</p><p><b>ある:</b> ない / あった / なかった / あって / あったり</p><p><b>いい:</b> よくない / よかった / よくなかった / よくて / よかったり</p></section>
+</div></div><script src="script.js"></script></body></html>

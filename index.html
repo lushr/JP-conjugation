@@ -13,6 +13,11 @@
 .help-sheet tr:nth-child(even){background:rgba(205,239,255,.42)}
 .help-sheet td:first-child,.help-sheet th:first-child{font-weight:800;width:55%}
 .table-wrap{width:100%;overflow-x:auto}
+
+#uverb .ua-table td:first-child,#uverb .ua-table th:first-child{width:30%}
+#uverb .ua-table td:nth-child(2),#uverb .ua-table th:nth-child(2){width:70%}
+#uverb .sound-table td:first-child,#uverb .sound-table th:first-child{width:55%}
+#uverb .sound-table td:nth-child(2),#uverb .sound-table th:nth-child(2){width:45%}
 </style>
 </head><body>
 <main class="app-shell">
@@ -108,18 +113,73 @@
 
 <section id="uverb">
 <h3>う-verbs</h3>
-<p>The ending changes depending on which form you need.</p>
-<p>Using <b>かく</b>:</p>
-<div class="table-wrap"><table>
-<tr><th>Form</th><th>かく</th></tr>
-<tr><td>ない</td><td>かかない</td></tr><tr><td>た</td><td>かいた</td></tr>
-<tr><td>なかった</td><td>かかなかった</td></tr><tr><td>て</td><td>かいて</td></tr><tr><td>たり</td><td>かいたり</td></tr>
+
+<h4>ない — negative</h4>
+<p>Change the final <b>う sound to its あ sound + ない</b>.</p>
+<p class="example">かく → かかない</p>
+<div class="table-wrap"><table class="ua-table">
+<tr><th>Change</th><th>Example</th></tr>
+<tr><td>～う → わ</td><td>かう → かわない</td></tr>
+<tr><td>～く → か</td><td>かく → かかない</td></tr>
+<tr><td>～ぐ → が</td><td>およぐ → およがない</td></tr>
+<tr><td>～す → さ</td><td>はなす → はなさない</td></tr>
+<tr><td>～つ → た</td><td>まつ → またない</td></tr>
+<tr><td>～む → ま</td><td>のむ → のまない</td></tr>
+<tr><td>～る → ら</td><td>とる → とらない</td></tr>
 </table></div>
-<h4>た sound groups</h4>
-<p class="example">う・つ・る → った<br>む・ぶ・ぬ → んだ<br>く → いた<br>ぐ → いだ<br>す → した</p>
-<h4>て sound groups</h4>
-<p class="example">う・つ・る → って<br>む・ぶ・ぬ → んで<br>く → いて<br>ぐ → いで<br>す → して</p>
-<p><b>いく is an exception:</b> いった / いって</p>
+
+<h4>た — short past</h4>
+<p>The change depends on the verb's final ending.</p>
+<p class="example">のむ → のんだ</p>
+<div class="table-wrap"><table class="sound-table">
+<tr><th>Ending</th><th>Example</th></tr>
+<tr><td>う・つ・る → った</td><td>かう → かった</td></tr>
+<tr><td>む・ぶ・ぬ → んだ</td><td>のむ → のんだ</td></tr>
+<tr><td>く → いた</td><td>かく → かいた</td></tr>
+<tr><td>ぐ → いだ</td><td>およぐ → およいだ</td></tr>
+<tr><td>す → した</td><td>はなす → はなした</td></tr>
+</table></div>
+<p><b>Exception:</b> いく → いった</p>
+
+<h4>なかった — negative past</h4>
+<p>Make the <b>ない</b> form, then change <b>ない → なかった</b>. The same <b>う → あ</b> sound change applies.</p>
+<p class="example">かく → かかない → かかなかった</p>
+<div class="table-wrap"><table class="ua-table">
+<tr><th>Change</th><th>Example</th></tr>
+<tr><td>～う → わ</td><td>かう → かわなかった</td></tr>
+<tr><td>～く → か</td><td>かく → かかなかった</td></tr>
+<tr><td>～ぐ → が</td><td>およぐ → およがなかった</td></tr>
+<tr><td>～す → さ</td><td>はなす → はなさなかった</td></tr>
+<tr><td>～つ → た</td><td>まつ → またなかった</td></tr>
+<tr><td>～む → ま</td><td>のむ → のまなかった</td></tr>
+<tr><td>～る → ら</td><td>とる → とらなかった</td></tr>
+</table></div>
+
+<h4>て — て-form</h4>
+<p>The change depends on the verb's final ending.</p>
+<p class="example">およぐ → およいで</p>
+<div class="table-wrap"><table class="sound-table">
+<tr><th>Ending</th><th>Example</th></tr>
+<tr><td>う・つ・る → って</td><td>かう → かって</td></tr>
+<tr><td>む・ぶ・ぬ → んで</td><td>のむ → のんで</td></tr>
+<tr><td>く → いて</td><td>かく → かいて</td></tr>
+<tr><td>ぐ → いで</td><td>およぐ → およいで</td></tr>
+<tr><td>す → して</td><td>はなす → はなして</td></tr>
+</table></div>
+<p><b>Exception:</b> いく → いって</p>
+
+<h4>たり — listing actions</h4>
+<p>Make the <b>た form + り</b>. It uses the same ending groups as た.</p>
+<p class="example">のむ → のんだ → のんだり</p>
+<div class="table-wrap"><table class="sound-table">
+<tr><th>Ending</th><th>Example</th></tr>
+<tr><td>う・つ・る → ったり</td><td>かう → かったり</td></tr>
+<tr><td>む・ぶ・ぬ → んだり</td><td>のむ → のんだり</td></tr>
+<tr><td>く → いたり</td><td>かく → かいたり</td></tr>
+<tr><td>ぐ → いだり</td><td>およぐ → およいだり</td></tr>
+<tr><td>す → したり</td><td>はなす → はなしたり</td></tr>
+</table></div>
+<p><b>Exception:</b> いく → いったり</p>
 </section>
 
 <section id="ruverb">

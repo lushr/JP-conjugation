@@ -17,7 +17,7 @@
 <div class="progress-track"><div id="progressBar" class="progress-bar"></div></div></div>
 </section>
 <section class="prompt-card"><h2 id="englishPrompt">Loading...</h2>
-<p class="conjugation-hint">ない　→　た　→　なかった　→　て　→　たり</p></section>
+<p class="conjugation-hint">ない → た → なかった → て → たり</p></section>
 <section id="answerCard" class="answer-card hidden"><p id="japaneseAnswer" class="japanese-text"></p>
 <button id="nextButton" class="primary-button pink" type="button">Next</button></section>
 <button id="revealButton" class="primary-button yellow" type="button">Reveal</button>
@@ -25,14 +25,118 @@
 <div id="helpPanel" class="help-overlay hidden" role="dialog" aria-modal="true"><div class="help-sheet">
 <div class="help-head"><h2>Conjugation help</h2><button id="closeHelp" class="close-button">×</button></div>
 <nav class="help-jumps"><a href="#nai">ない</a><a href="#ta">た</a><a href="#nakatta">なかった</a><a href="#te">て</a><a href="#tari">たり</a><a href="#uverb">う-verbs</a><a href="#ruverb">る-verbs</a><a href="#iadj">い-adj</a><a href="#naadj">な-adj</a><a href="#irregular">Irregular</a></nav>
-<section id="nai"><h3>ない — negative</h3><p><b>う-verbs:</b> final sound → あ-row + ない. う → わない.</p><p>かく → かかない　 のむ → のまない　 かう → かわない</p><p><b>る-verbs:</b> drop る + ない.　たべる → たべない</p></section>
-<section id="ta"><h3>た — short past</h3><p><b>う・つ・る → った</b>　かう → かった</p><p><b>む・ぶ・ぬ → んだ</b>　のむ → のんだ</p><p><b>く → いた</b>　かく → かいた</p><p><b>ぐ → いだ</b>　およぐ → およいだ</p><p><b>す → した</b>　はなす → はなした</p><p><b>る-verbs:</b> drop る + た.　たべる → たべた</p></section>
-<section id="nakatta"><h3>なかった — negative past</h3><p>Make the ない form, then change ない → なかった.</p><p>のむ → のまない → のまなかった</p></section>
-<section id="te"><h3>て — て-form</h3><p><b>う・つ・る → って</b>　かう → かって</p><p><b>む・ぶ・ぬ → んで</b>　のむ → のんで</p><p><b>く → いて</b>　かく → かいて</p><p><b>ぐ → いで</b>　およぐ → およいで</p><p><b>す → して</b>　はなす → はなして</p><p><b>る-verbs:</b> drop る + て.　たべる → たべて</p></section>
-<section id="tari"><h3>たり — listing actions/states</h3><p>Make the た form + り.</p><p>のむ → のんだ → のんだり　 たべる → たべた → たべたり</p></section>
-<section id="uverb"><h3>う-verbs</h3><p>The ending changes according to its final kana. Watch る-verbs that are actually う-verbs: かえる → かえらない, はいる → はいらない.</p></section>
-<section id="ruverb"><h3>る-verbs</h3><p>Usually drop る before the ending: たべる → たべない / たべた / たべて.</p></section>
-<section id="iadj"><h3>い-adjectives</h3><p>ない: 〜くない　 た: 〜かった　 なかった: 〜くなかった</p><p>て: 〜くて　 たり: 〜かったり</p><p>たかい → たかくない / たかかった / たかくなかった / たかくて / たかかったり</p></section>
-<section id="naadj"><h3>な-adjectives</h3><p>ない: 〜じゃない　 た: 〜だった　 なかった: 〜じゃなかった</p><p>て: 〜で　 たり: 〜だったり</p><p>しずか → しずかじゃない / しずかだった / しずかじゃなかった / しずかで / しずかだったり</p></section>
-<section id="irregular"><h3>Irregular</h3><p><b>する:</b> しない / した / しなかった / して / したり</p><p><b>くる:</b> こない / きた / こなかった / きて / きたり</p><p><b>いく:</b> いかない / いった / いかなかった / いって / いったり</p><p><b>ある:</b> ない / あった / なかった / あって / あったり</p><p><b>いい:</b> よくない / よかった / よくなかった / よくて / よかったり</p></section>
+<section id="nai"><h3>ない — negative</h3>
+<p><b>う-verbs</b></p>
+<p>Change the final sound to the あ-row + ない</p>
+<p>かく → かかない<br>のむ → のまない<br>かう → かわない</p>
+<p><b>る-verbs</b></p>
+<p>Drop る + ない</p>
+<p>たべる → たべない</p>
+<p><b>い-adjectives</b></p>
+<p>Change い → くない</p>
+<p>たかい → たかくない</p>
+<p><b>な-adjectives</b></p>
+<p>Add じゃない</p>
+<p>しずか → しずかじゃない</p>
+</section>
+
+<section id="ta"><h3>た — short past</h3>
+<p><b>う-verbs</b></p>
+<p>う・つ・る → った<br>かう → かった</p>
+<p>む・ぶ・ぬ → んだ<br>のむ → のんだ</p>
+<p>く → いた<br>かく → かいた</p>
+<p>ぐ → いだ<br>およぐ → およいだ</p>
+<p>す → した<br>はなす → はなした</p>
+<p><b>る-verbs</b></p>
+<p>Drop る + た</p>
+<p>たべる → たべた</p>
+<p><b>い-adjectives</b></p>
+<p>Change い → かった</p>
+<p>たかい → たかかった</p>
+<p><b>な-adjectives</b></p>
+<p>Add だった</p>
+<p>しずか → しずかだった</p>
+</section>
+
+<section id="nakatta"><h3>なかった — negative past</h3>
+<p><b>う-verbs</b></p>
+<p>Make the ない form, then change ない → なかった</p>
+<p>のむ → のまない → のまなかった</p>
+<p><b>る-verbs</b></p>
+<p>Make the ない form, then change ない → なかった</p>
+<p>たべる → たべない → たべなかった</p>
+<p><b>い-adjectives</b></p>
+<p>Change い → くなかった</p>
+<p>たかい → たかくなかった</p>
+<p><b>な-adjectives</b></p>
+<p>Add じゃなかった</p>
+<p>しずか → しずかじゃなかった</p>
+</section>
+
+<section id="te"><h3>て — て-form</h3>
+<p><b>う-verbs</b></p>
+<p>う・つ・る → って<br>かう → かって</p>
+<p>む・ぶ・ぬ → んで<br>のむ → のんで</p>
+<p>く → いて<br>かく → かいて</p>
+<p>ぐ → いで<br>およぐ → およいで</p>
+<p>す → して<br>はなす → はなして</p>
+<p><b>る-verbs</b></p>
+<p>Drop る + て</p>
+<p>たべる → たべて</p>
+<p><b>い-adjectives</b></p>
+<p>Change い → くて</p>
+<p>たかい → たかくて</p>
+<p><b>な-adjectives</b></p>
+<p>Add で</p>
+<p>しずか → しずかで</p>
+</section>
+
+<section id="tari"><h3>たり — listing actions / states</h3>
+<p><b>う-verbs</b></p>
+<p>Make the た form + り</p>
+<p>のむ → のんだ → のんだり</p>
+<p><b>る-verbs</b></p>
+<p>Make the た form + り</p>
+<p>たべる → たべた → たべたり</p>
+<p><b>い-adjectives</b></p>
+<p>Change い → かったり</p>
+<p>たかい → たかかったり</p>
+<p><b>な-adjectives</b></p>
+<p>Add だったり</p>
+<p>しずか → しずかだったり</p>
+</section>
+
+<section id="uverb"><h3>う-verbs</h3>
+<p>The ending changes according to the final kana.</p>
+<p>Some verbs ending in る are still う-verbs:</p>
+<p>かえる → かえらない<br>はいる → はいらない</p>
+</section>
+
+<section id="ruverb"><h3>る-verbs</h3>
+<p>Drop る before adding the new ending.</p>
+<p>たべる → たべない<br>たべる → たべた<br>たべる → たべて</p>
+</section>
+
+<section id="iadj"><h3>い-adjectives</h3>
+<p>ない → くない<br>た → かった<br>なかった → くなかった<br>て → くて<br>たり → かったり</p>
+<p>たかい → たかくない<br>たかい → たかかった<br>たかい → たかくなかった<br>たかい → たかくて<br>たかい → たかかったり</p>
+</section>
+
+<section id="naadj"><h3>な-adjectives</h3>
+<p>ない → じゃない<br>た → だった<br>なかった → じゃなかった<br>て → で<br>たり → だったり</p>
+<p>しずか → しずかじゃない<br>しずか → しずかだった<br>しずか → しずかじゃなかった<br>しずか → しずかで<br>しずか → しずかだったり</p>
+</section>
+
+<section id="irregular"><h3>Irregular</h3>
+<p><b>する</b></p>
+<p>しない<br>した<br>しなかった<br>して<br>したり</p>
+<p><b>くる</b></p>
+<p>こない<br>きた<br>こなかった<br>きて<br>きたり</p>
+<p><b>いく</b></p>
+<p>いかない<br>いった<br>いかなかった<br>いって<br>いったり</p>
+<p><b>ある</b></p>
+<p>ない<br>あった<br>なかった<br>あって<br>あったり</p>
+<p><b>いい</b></p>
+<p>よくない<br>よかった<br>よくなかった<br>よくて<br>よかったり</p>
+</section>
 </div></div><script src="script.js"></script></body></html>

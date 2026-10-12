@@ -232,5 +232,899 @@
     "japanese": "いかない\nいった\nいかなかった\nいって\nいったり",
     "note": "ない → た → なかった → て → たり",
     "type": "verb"
+  },
+  {
+    "english": "あける — to open (something)",
+    "japanese": "あけない\nあけた\nあけなかった\nあけて\nあけたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "あく — to open (intransitive)",
+    "japanese": "あかない\nあいた\nあかなかった\nあいて\nあいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "しめる — to close (something)",
+    "japanese": "しめない\nしめた\nしめなかった\nしめて\nしめたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "しまる — to close (intransitive)",
+    "japanese": "しまらない\nしまった\nしまらなかった\nしまって\nしまったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "でる — to leave / go out",
+    "japanese": "でない\nでた\nでなかった\nでて\nでたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "だす — to take out / submit",
+    "japanese": "ださない\nだした\nださなかった\nだして\nだしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "はじめる — to begin (something)",
+    "japanese": "はじめない\nはじめた\nはじめなかった\nはじめて\nはじめたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "はじまる — to begin",
+    "japanese": "はじまらない\nはじまった\nはじまらなかった\nはじまって\nはじまったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おわる — to finish",
+    "japanese": "おわらない\nおわった\nおわらなかった\nおわって\nおわったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おしえる — to teach / tell",
+    "japanese": "おしえない\nおしえた\nおしえなかった\nおしえて\nおしえたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "ならう — to learn",
+    "japanese": "ならわない\nならった\nならわなかった\nならって\nならったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "べんきょうする — to study",
+    "japanese": "べんきょうしない\nべんきょうした\nべんきょうしなかった\nべんきょうして\nべんきょうしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "れんしゅうする — to practise",
+    "japanese": "れんしゅうしない\nれんしゅうした\nれんしゅうしなかった\nれんしゅうして\nれんしゅうしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "はたらく — to work",
+    "japanese": "はたらかない\nはたらいた\nはたらかなかった\nはたらいて\nはたらいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "やすむ — to rest / take time off",
+    "japanese": "やすまない\nやすんだ\nやすまなかった\nやすんで\nやすんだり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "すむ — to live / reside",
+    "japanese": "すまない\nすんだ\nすまなかった\nすんで\nすんだり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "いる — to exist (living thing)",
+    "japanese": "いない\nいた\nいなかった\nいて\nいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "できる — to be able to",
+    "japanese": "できない\nできた\nできなかった\nできて\nできたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おぼえる — to remember / memorise",
+    "japanese": "おぼえない\nおぼえた\nおぼえなかった\nおぼえて\nおぼえたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "わすれる — to forget",
+    "japanese": "わすれない\nわすれた\nわすれなかった\nわすれて\nわすれたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "しる — to know",
+    "japanese": "しらない\nしった\nしらなかった\nしって\nしったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "かんがえる — to think / consider",
+    "japanese": "かんがえない\nかんがえた\nかんがえなかった\nかんがえて\nかんがえたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おもう — to think / feel",
+    "japanese": "おもわない\nおもった\nおもわなかった\nおもって\nおもったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "いう — to say",
+    "japanese": "いわない\nいった\nいわなかった\nいって\nいったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "よぶ — to call",
+    "japanese": "よばない\nよんだ\nよばなかった\nよんで\nよんだり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "こたえる — to answer",
+    "japanese": "こたえない\nこたえた\nこたえなかった\nこたえて\nこたえたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "しつもんする — to ask a question",
+    "japanese": "しつもんしない\nしつもんした\nしつもんしなかった\nしつもんして\nしつもんしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "みせる — to show",
+    "japanese": "みせない\nみせた\nみせなかった\nみせて\nみせたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "もつ — to hold / have",
+    "japanese": "もたない\nもった\nもたなかった\nもって\nもったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おく — to put / place",
+    "japanese": "おかない\nおいた\nおかなかった\nおいて\nおいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "すわる — to sit",
+    "japanese": "すわらない\nすわった\nすわらなかった\nすわって\nすわったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "たつ — to stand",
+    "japanese": "たたない\nたった\nたたなかった\nたって\nたったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "あるく — to walk",
+    "japanese": "あるかない\nあるいた\nあるかなかった\nあるいて\nあるいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "はしる — to run",
+    "japanese": "はしらない\nはしった\nはしらなかった\nはしって\nはしったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "とぶ — to fly",
+    "japanese": "とばない\nとんだ\nとばなかった\nとんで\nとんだり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "のる — to ride / board",
+    "japanese": "のらない\nのった\nのらなかった\nのって\nのったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おりる — to get off",
+    "japanese": "おりない\nおりた\nおりなかった\nおりて\nおりたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "うんてんする — to drive",
+    "japanese": "うんてんしない\nうんてんした\nうんてんしなかった\nうんてんして\nうんてんしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "りょこうする — to travel",
+    "japanese": "りょこうしない\nりょこうした\nりょこうしなかった\nりょこうして\nりょこうしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "さんぽする — to take a walk",
+    "japanese": "さんぽしない\nさんぽした\nさんぽしなかった\nさんぽして\nさんぽしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "かえる — to change (something)",
+    "japanese": "かえない\nかえた\nかえなかった\nかえて\nかえたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おくる — to send",
+    "japanese": "おくらない\nおくった\nおくらなかった\nおくって\nおくったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "もらう — to receive",
+    "japanese": "もらわない\nもらった\nもらわなかった\nもらって\nもらったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "あげる — to give",
+    "japanese": "あげない\nあげた\nあげなかった\nあげて\nあげたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "かす — to lend",
+    "japanese": "かさない\nかした\nかさなかった\nかして\nかしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "かりる — to borrow",
+    "japanese": "かりない\nかりた\nかりなかった\nかりて\nかりたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "はらう — to pay",
+    "japanese": "はらわない\nはらった\nはらわなかった\nはらって\nはらったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "うる — to sell",
+    "japanese": "うらない\nうった\nうらなかった\nうって\nうったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "えらぶ — to choose",
+    "japanese": "えらばない\nえらんだ\nえらばなかった\nえらんで\nえらんだり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "さがす — to search for",
+    "japanese": "さがさない\nさがした\nさがさなかった\nさがして\nさがしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "みつける — to find",
+    "japanese": "みつけない\nみつけた\nみつけなかった\nみつけて\nみつけたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "ひろう — to pick up",
+    "japanese": "ひろわない\nひろった\nひろわなかった\nひろって\nひろったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おとす — to drop",
+    "japanese": "おとさない\nおとした\nおとさなかった\nおとして\nおとしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "なくす — to lose",
+    "japanese": "なくさない\nなくした\nなくさなかった\nなくして\nなくしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "きる — to wear (upper body)",
+    "japanese": "きない\nきた\nきなかった\nきて\nきたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "はく — to wear (lower body / shoes)",
+    "japanese": "はかない\nはいた\nはかなかった\nはいて\nはいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "ぬぐ — to take off clothes",
+    "japanese": "ぬがない\nぬいだ\nぬがなかった\nぬいで\nぬいだり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "あらう — to wash",
+    "japanese": "あらわない\nあらった\nあらわなかった\nあらって\nあらったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "あびる — to shower / bathe",
+    "japanese": "あびない\nあびた\nあびなかった\nあびて\nあびたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "そうじする — to clean",
+    "japanese": "そうじしない\nそうじした\nそうじしなかった\nそうじして\nそうじしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "せんたくする — to do laundry",
+    "japanese": "せんたくしない\nせんたくした\nせんたくしなかった\nせんたくして\nせんたくしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "りょうりする — to cook",
+    "japanese": "りょうりしない\nりょうりした\nりょうりしなかった\nりょうりして\nりょうりしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "きる — to cut",
+    "japanese": "きらない\nきった\nきらなかった\nきって\nきったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "けす — to switch off / erase",
+    "japanese": "けさない\nけした\nけさなかった\nけして\nけしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "つける — to switch on / attach",
+    "japanese": "つけない\nつけた\nつけなかった\nつけて\nつけたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "つく — to turn on (intransitive)",
+    "japanese": "つかない\nついた\nつかなかった\nついて\nついたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "きえる — to go out / disappear",
+    "japanese": "きえない\nきえた\nきえなかった\nきえて\nきえたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "うたう — to sing",
+    "japanese": "うたわない\nうたった\nうたわなかった\nうたって\nうたったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おどる — to dance",
+    "japanese": "おどらない\nおどった\nおどらなかった\nおどって\nおどったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "ひく — to play an instrument",
+    "japanese": "ひかない\nひいた\nひかなかった\nひいて\nひいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "けっこんする — to marry",
+    "japanese": "けっこんしない\nけっこんした\nけっこんしなかった\nけっこんして\nけっこんしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "でんわする — to telephone",
+    "japanese": "でんわしない\nでんわした\nでんわしなかった\nでんわして\nでんわしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "てつだう — to help",
+    "japanese": "てつだわない\nてつだった\nてつだわなかった\nてつだって\nてつだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "つかれる — to get tired",
+    "japanese": "つかれない\nつかれた\nつかれなかった\nつかれて\nつかれたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "こまる — to be troubled",
+    "japanese": "こまらない\nこまった\nこまらなかった\nこまって\nこまったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "いそぐ — to hurry",
+    "japanese": "いそがない\nいそいだ\nいそがなかった\nいそいで\nいそいだり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "まがる — to turn",
+    "japanese": "まがらない\nまがった\nまがらなかった\nまがって\nまがったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "わたる — to cross",
+    "japanese": "わたらない\nわたった\nわたらなかった\nわたって\nわたったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "とまる — to stop / stay",
+    "japanese": "とまらない\nとまった\nとまらなかった\nとまって\nとまったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "とめる — to stop (something)",
+    "japanese": "とめない\nとめた\nとめなかった\nとめて\nとめたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "うごく — to move",
+    "japanese": "うごかない\nうごいた\nうごかなかった\nうごいて\nうごいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "うごかす — to move (something)",
+    "japanese": "うごかさない\nうごかした\nうごかさなかった\nうごかして\nうごかしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "つく — to arrive",
+    "japanese": "つかない\nついた\nつかなかった\nついて\nついたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "のぼる — to climb",
+    "japanese": "のぼらない\nのぼった\nのぼらなかった\nのぼって\nのぼったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "おす — to push",
+    "japanese": "おさない\nおした\nおさなかった\nおして\nおしたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "ひく — to pull",
+    "japanese": "ひかない\nひいた\nひかなかった\nひいて\nひいたり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "verb"
+  },
+  {
+    "english": "すき — liked / favourite",
+    "japanese": "すきじゃない\nすきだった\nすきじゃなかった\nすきで\nすきだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "きらい — disliked",
+    "japanese": "きらいじゃない\nきらいだった\nきらいじゃなかった\nきらいで\nきらいだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "じょうず — skilful",
+    "japanese": "じょうずじゃない\nじょうずだった\nじょうずじゃなかった\nじょうずで\nじょうずだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "へた — unskilled",
+    "japanese": "へたじゃない\nへただった\nへたじゃなかった\nへたで\nへただったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "べんり — convenient",
+    "japanese": "べんりじゃない\nべんりだった\nべんりじゃなかった\nべんりで\nべんりだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "ふべん — inconvenient",
+    "japanese": "ふべんじゃない\nふべんだった\nふべんじゃなかった\nふべんで\nふべんだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "ゆうめい — famous",
+    "japanese": "ゆうめいじゃない\nゆうめいだった\nゆうめいじゃなかった\nゆうめいで\nゆうめいだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "たいへん — difficult / tough",
+    "japanese": "たいへんじゃない\nたいへんだった\nたいへんじゃなかった\nたいへんで\nたいへんだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "かんたん — easy / simple",
+    "japanese": "かんたんじゃない\nかんたんだった\nかんたんじゃなかった\nかんたんで\nかんたんだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "ひま — free (time)",
+    "japanese": "ひまじゃない\nひまだった\nひまじゃなかった\nひまで\nひまだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "にぎやか — lively",
+    "japanese": "にぎやかじゃない\nにぎやかだった\nにぎやかじゃなかった\nにぎやかで\nにぎやかだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "だいじょうぶ — all right / okay",
+    "japanese": "だいじょうぶじゃない\nだいじょうぶだった\nだいじょうぶじゃなかった\nだいじょうぶで\nだいじょうぶだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "だいすき — really liked / loved",
+    "japanese": "だいすきじゃない\nだいすきだった\nだいすきじゃなかった\nだいすきで\nだいすきだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "だいきらい — really disliked",
+    "japanese": "だいきらいじゃない\nだいきらいだった\nだいきらいじゃなかった\nだいきらいで\nだいきらいだったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "na-adj"
+  },
+  {
+    "english": "あたらしい — new",
+    "japanese": "あたらしくない\nあたらしかった\nあたらしくなかった\nあたらしくて\nあたらしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "ふるい — old (thing)",
+    "japanese": "ふるくない\nふるかった\nふるくなかった\nふるくて\nふるかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "わかい — young",
+    "japanese": "わかくない\nわかかった\nわかくなかった\nわかくて\nわかかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "はやい — early / fast",
+    "japanese": "はやくない\nはやかった\nはやくなかった\nはやくて\nはやかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "おそい — late / slow",
+    "japanese": "おそくない\nおそかった\nおそくなかった\nおそくて\nおそかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "おいしい — delicious",
+    "japanese": "おいしくない\nおいしかった\nおいしくなかった\nおいしくて\nおいしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "まずい — unpleasant-tasting",
+    "japanese": "まずくない\nまずかった\nまずくなかった\nまずくて\nまずかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "あまい — sweet",
+    "japanese": "あまくない\nあまかった\nあまくなかった\nあまくて\nあまかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "からい — spicy",
+    "japanese": "からくない\nからかった\nからくなかった\nからくて\nからかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "にがい — bitter",
+    "japanese": "にがくない\nにがかった\nにがくなかった\nにがくて\nにがかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "すっぱい — sour",
+    "japanese": "すっぱくない\nすっぱかった\nすっぱくなかった\nすっぱくて\nすっぱかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "つめたい — cold (to touch)",
+    "japanese": "つめたくない\nつめたかった\nつめたくなかった\nつめたくて\nつめたかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "あたたかい — warm",
+    "japanese": "あたたかくない\nあたたかかった\nあたたかくなかった\nあたたかくて\nあたたかかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "すずしい — cool (weather)",
+    "japanese": "すずしくない\nすずしかった\nすずしくなかった\nすずしくて\nすずしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "あかるい — bright",
+    "japanese": "あかるくない\nあかるかった\nあかるくなかった\nあかるくて\nあかるかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "くらい — dark",
+    "japanese": "くらくない\nくらかった\nくらくなかった\nくらくて\nくらかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "ながい — long",
+    "japanese": "ながくない\nながかった\nながくなかった\nながくて\nながかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "みじかい — short (length)",
+    "japanese": "みじかくない\nみじかかった\nみじかくなかった\nみじかくて\nみじかかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "ひろい — wide / spacious",
+    "japanese": "ひろくない\nひろかった\nひろくなかった\nひろくて\nひろかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "せまい — narrow / cramped",
+    "japanese": "せまくない\nせまかった\nせまくなかった\nせまくて\nせまかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "おもい — heavy",
+    "japanese": "おもくない\nおもかった\nおもくなかった\nおもくて\nおもかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "かるい — light (weight)",
+    "japanese": "かるくない\nかるかった\nかるくなかった\nかるくて\nかるかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "つよい — strong",
+    "japanese": "つよくない\nつよかった\nつよくなかった\nつよくて\nつよかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "よわい — weak",
+    "japanese": "よわくない\nよわかった\nよわくなかった\nよわくて\nよわかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "むずかしい — difficult",
+    "japanese": "むずかしくない\nむずかしかった\nむずかしくなかった\nむずかしくて\nむずかしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "やさしい — easy",
+    "japanese": "やさしくない\nやさしかった\nやさしくなかった\nやさしくて\nやさしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "やさしい — kind / gentle",
+    "japanese": "やさしくない\nやさしかった\nやさしくなかった\nやさしくて\nやさしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "いそがしい — busy",
+    "japanese": "いそがしくない\nいそがしかった\nいそがしくなかった\nいそがしくて\nいそがしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "たのしい — fun / enjoyable",
+    "japanese": "たのしくない\nたのしかった\nたのしくなかった\nたのしくて\nたのしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "うれしい — happy / glad",
+    "japanese": "うれしくない\nうれしかった\nうれしくなかった\nうれしくて\nうれしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "かなしい — sad",
+    "japanese": "かなしくない\nかなしかった\nかなしくなかった\nかなしくて\nかなしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "こわい — scary",
+    "japanese": "こわくない\nこわかった\nこわくなかった\nこわくて\nこわかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "いたい — painful",
+    "japanese": "いたくない\nいたかった\nいたくなかった\nいたくて\nいたかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "ねむい — sleepy",
+    "japanese": "ねむくない\nねむかった\nねむくなかった\nねむくて\nねむかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "ほしい — wanted / desirable",
+    "japanese": "ほしくない\nほしかった\nほしくなかった\nほしくて\nほしかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "かわいい — cute",
+    "japanese": "かわいくない\nかわいかった\nかわいくなかった\nかわいくて\nかわいかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "きたない — dirty",
+    "japanese": "きたなくない\nきたなかった\nきたなくなかった\nきたなくて\nきたなかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "あぶない — dangerous",
+    "japanese": "あぶなくない\nあぶなかった\nあぶなくなかった\nあぶなくて\nあぶなかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "すごい — amazing",
+    "japanese": "すごくない\nすごかった\nすごくなかった\nすごくて\nすごかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "おおい — many / numerous",
+    "japanese": "おおくない\nおおかった\nおおくなかった\nおおくて\nおおかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "すくない — few",
+    "japanese": "すくなくない\nすくなかった\nすくなくなかった\nすくなくて\nすくなかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "ちかい — near",
+    "japanese": "ちかくない\nちかかった\nちかくなかった\nちかくて\nちかかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "とおい — far",
+    "japanese": "とおくない\nとおかった\nとおくなかった\nとおくて\nとおかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "まるい — round",
+    "japanese": "まるくない\nまるかった\nまるくなかった\nまるくて\nまるかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "あかい — red",
+    "japanese": "あかくない\nあかかった\nあかくなかった\nあかくて\nあかかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "あおい — blue",
+    "japanese": "あおくない\nあおかった\nあおくなかった\nあおくて\nあおかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "しろい — white",
+    "japanese": "しろくない\nしろかった\nしろくなかった\nしろくて\nしろかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "くろい — black",
+    "japanese": "くろくない\nくろかった\nくろくなかった\nくろくて\nくろかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
+  },
+  {
+    "english": "きいろい — yellow",
+    "japanese": "きいろくない\nきいろかった\nきいろくなかった\nきいろくて\nきいろかったり",
+    "note": "ない → た → なかった → て → たり",
+    "type": "i-adj"
   }
 ]

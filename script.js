@@ -51,4 +51,11 @@ nextButton.addEventListener("click",()=>{if(currentIndex>=sets[currentSet].lengt
 
 helpButton.addEventListener("click",()=>helpPanel.classList.remove("hidden"));closeHelp.addEventListener("click",()=>helpPanel.classList.add("hidden"));helpPanel.addEventListener("click",e=>{if(e.target===helpPanel)helpPanel.classList.add("hidden")});
 async function loadDeck(){try{const r=await fetch("conjugations.json");if(!r.ok)throw Error();allCards=await r.json();sets=makeSets(allCards);setPicker.replaceChildren(...sets.map((_,i)=>{const b=document.createElement("button");b.type="button";b.className="level-button";b.textContent=String.fromCharCode(65+i);b.setAttribute("aria-label",`Set ${i+1}`);b.addEventListener("click",()=>chooseSet(i));return b}));showCard()}catch(e){promptEl.textContent="Error loading conjugation deck";progressText.textContent="0/0"}}
-if("serviceWorker"in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("service-worker.js").catch(()=>{}))}loadDeck();
+if("serviceWorker"in navigator){
+ window.addEventListener("load",async()=>{
+   try{
+     const registration=await navigator.serviceWorker.register("service-worker.js",{updateViaCache:"none"});
+     await registration.update();
+   }catch(e){}
+ });
+}loadDeck();

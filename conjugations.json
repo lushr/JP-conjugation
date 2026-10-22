@@ -36,12 +36,6 @@
     "type": "i-adj"
   },
   {
-    "english": "する — to do",
-    "japanese": "しない\nした\nしなかった\nして\nしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
     "english": "きれい — clean / pretty",
     "japanese": "きれいじゃない\nきれいだった\nきれいじゃなかった\nきれいで\nきれいだったり",
     "note": "ない → た → なかった → て → たり",
@@ -276,18 +270,6 @@
     "type": "verb"
   },
   {
-    "english": "べんきょうする — to study",
-    "japanese": "べんきょうしない\nべんきょうした\nべんきょうしなかった\nべんきょうして\nべんきょうしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
-    "english": "れんしゅうする — to practise",
-    "japanese": "れんしゅうしない\nれんしゅうした\nれんしゅうしなかった\nれんしゅうして\nれんしゅうしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
     "english": "はたらく — to work",
     "japanese": "はたらかない\nはたらいた\nはたらかなかった\nはたらいて\nはたらいたり",
     "note": "ない → た → なかった → て → たり",
@@ -360,12 +342,6 @@
     "type": "verb"
   },
   {
-    "english": "しつもんする — to ask a question",
-    "japanese": "しつもんしない\nしつもんした\nしつもんしなかった\nしつもんして\nしつもんしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
     "english": "みせる — to show",
     "japanese": "みせない\nみせた\nみせなかった\nみせて\nみせたり",
     "note": "ない → た → なかった → て → たり",
@@ -416,24 +392,6 @@
   {
     "english": "おりる — to get off",
     "japanese": "おりない\nおりた\nおりなかった\nおりて\nおりたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
-    "english": "うんてんする — to drive",
-    "japanese": "うんてんしない\nうんてんした\nうんてんしなかった\nうんてんして\nうんてんしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
-    "english": "りょこうする — to travel",
-    "japanese": "りょこうしない\nりょこうした\nりょこうしなかった\nりょこうして\nりょこうしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
-    "english": "さんぽする — to take a walk",
-    "japanese": "さんぽしない\nさんぽした\nさんぽしなかった\nさんぽして\nさんぽしたり",
     "note": "ない → た → なかった → て → たり",
     "type": "verb"
   },
@@ -516,24 +474,6 @@
     "type": "verb"
   },
   {
-    "english": "そうじする — to clean",
-    "japanese": "そうじしない\nそうじした\nそうじしなかった\nそうじして\nそうじしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
-    "english": "せんたくする — to do laundry",
-    "japanese": "せんたくしない\nせんたくした\nせんたくしなかった\nせんたくして\nせんたくしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
-    "english": "りょうりする — to cook",
-    "japanese": "りょうりしない\nりょうりした\nりょうりしなかった\nりょうりして\nりょうりしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
     "english": "きる — to cut",
     "japanese": "きらない\nきった\nきらなかった\nきって\nきったり",
     "note": "ない → た → なかった → て → たり",
@@ -554,18 +494,6 @@
   {
     "english": "ひく — to play an instrument",
     "japanese": "ひかない\nひいた\nひかなかった\nひいて\nひいたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
-    "english": "けっこんする — to marry",
-    "japanese": "けっこんしない\nけっこんした\nけっこんしなかった\nけっこんして\nけっこんしたり",
-    "note": "ない → た → なかった → て → たり",
-    "type": "verb"
-  },
-  {
-    "english": "でんわする — to telephone",
-    "japanese": "でんわしない\nでんわした\nでんわしなかった\nでんわして\nでんわしたり",
     "note": "ない → た → なかった → て → たり",
     "type": "verb"
   },

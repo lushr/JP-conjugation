@@ -18,13 +18,13 @@
 #uverb .ua-table td:nth-child(2),#uverb .ua-table th:nth-child(2){width:70%}
 #uverb .sound-table td:first-child,#uverb .sound-table th:first-child{width:55%}
 #uverb .sound-table td:nth-child(2),#uverb .sound-table th:nth-child(2){width:45%}
-</style>
+.menu-anchor{position:relative;z-index:10;flex-shrink:0}.menu-popover{position:absolute;top:calc(100% + 10px);left:0;min-width:170px;padding:8px;background:#cdefff;border:3px solid #161616;border-radius:16px;box-shadow:4px 4px 0 #161616}.menu-popover[hidden]{display:none}.menu-popover a,.menu-popover button{display:block;width:100%;padding:10px;color:#161616;text-decoration:none;font:800 1rem system-ui;background:transparent;border:0;text-align:left;cursor:pointer}.progress-wrap{min-height:60px}</style>
 </head><body>
 <main class="app-shell">
-<a href="https://lushr.github.io/jp-conj-audio/" aria-label="Return to main menu" style="display:inline-block;margin:0 0 12px;padding:10px 14px;border-radius:12px;background:#fff;color:#29233a;text-decoration:none;font-weight:800;border:1px solid #dfcbd7">⌂ Main menu</a>
+
 <section class="top-card">
-<div class="app-title-row">
-<button id="helpButton" class="icon-button" type="button" aria-label="Help">?</button>
+<div class="app-title-row"><div class="menu-anchor"><button id="menuToggle" class="icon-button" type="button" aria-label="Open menu" aria-expanded="false">☰</button><nav id="menuPopover" class="menu-popover" hidden><a href="https://lushr.github.io/jp-conj-audio/">⌂ Main menu</a><button id="menuHelp" type="button">? Help</button></nav></div>
+<button hidden id="helpButton" class="icon-button" type="button" aria-label="Help">?</button>
 <div class="set-picker" id="setPicker" aria-label="Choose practice set"></div></div>
 <div class="progress-wrap"><div class="progress-label"><span id="modeLabel">Set 1 of 7</span><span id="progressText">0/0</span></div>
 <div class="progress-track"><div id="progressBar" class="progress-bar"></div></div></div>
@@ -229,4 +229,4 @@
 <h4>ある — to exist</h4><p>The negative is irregular.</p>
 <div class="table-wrap"><table><tr><td>ない</td><td><b>ない</b></td></tr><tr><td>た</td><td>あった</td></tr><tr><td>なかった</td><td><b>なかった</b></td></tr><tr><td>て</td><td>あって</td></tr><tr><td>たり</td><td>あったり</td></tr></table></div>
 </section>
-</div></div><script src="script.js"></script></body></html>
+</div></div><script src="script.js"></script><script>const menuButton=document.getElementById('menuToggle'),menuPanel=document.getElementById('menuPopover');menuButton.addEventListener('click',()=>{menuPanel.hidden=!menuPanel.hidden;menuButton.setAttribute('aria-expanded',String(!menuPanel.hidden))});document.getElementById('menuHelp').addEventListener('click',()=>{menuPanel.hidden=true;menuButton.setAttribute('aria-expanded','false');document.getElementById('helpButton').click()});document.addEventListener('pointerdown',event=>{if(!menuButton.parentElement.contains(event.target)){menuPanel.hidden=true;menuButton.setAttribute('aria-expanded','false')}});document.addEventListener('keydown',event=>{if(event.key==='Escape'){menuPanel.hidden=true;menuButton.setAttribute('aria-expanded','false')}});</script></body></html>
